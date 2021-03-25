@@ -1,0 +1,9 @@
+[submodule "FCCSW"]
+	path = FCCSW
+	url = https://github.com/HEP-FCC/FCCSW.git
+[submodule "k4Gen"]
+	path = k4Gen
+	url = https://github.com/HEP-FCC/k4Gen.git
+[submodule "FCCDetectors"]
+	path = FCCDetectors
+	url = https://github.com/HEP-FCC/FCCDetectors.git
